@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+## My Links ;ppp 😛
+  * [LinkedIn](https://www.linkedin.com/in/pathompong-muangthong-059537200/)
+  * [Kaggle](https://www.kaggle.com/pathompongmuangthong)
 <!--
 **p4zaa/p4zaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
