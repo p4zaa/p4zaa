@@ -3,6 +3,15 @@
 ## My Links ;ppp 😛
   * [LinkedIn](https://www.linkedin.com/in/pathompong-muangthong-059537200/)
   * [Kaggle](https://www.kaggle.com/pathompongmuangthong)
+
+<details>
+  <summary>My Personal Bookmarks :q</summary>
+ 
+  * [Habitica](https://habitica.com/)
+  * [Notion](https://www.notion.so/)
+ 
+</details>
+
 <!--
 **p4zaa/p4zaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
