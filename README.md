@@ -1,6 +1,6 @@
 <img align="left" src="https://i.pinimg.com/originals/c3/fe/1a/c3fe1addb7c1df50f7e5ba2d6b53426f.gif" width="8%"/> 
 
-#### `  We were born to shine  ` ⭐ 🌠 <br>
+#### **`We were born to shine`**  ⭐ 🌠 <br>
 
 <br clear="left"/>
 
