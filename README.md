@@ -2,7 +2,8 @@
 
 <br clear="left"/>
 
-> **We were born to shine**  ⭐ 🌠 <br>
+> **We were born to shine**  [⭐ 🌠](https://www.youtube.com/watch?v=TdU1vhLK9HM) <br />
+> Thank you for sunshine, thank you for rain, thank you for joy, thank you for pain, it's a beautiful day [🌻](https://www.youtube.com/watch?v=Rdi8xopFykw&list=RDRdi8xopFykw&start_radio=1)
 
 |— x — x —  Contact  — x — x —|
 |---|
