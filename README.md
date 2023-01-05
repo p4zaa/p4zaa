@@ -1,8 +1,12 @@
 <img align="left" src="https://i.pinimg.com/originals/c3/fe/1a/c3fe1addb7c1df50f7e5ba2d6b53426f.gif" width="8%"/> 
 
-#### **`We were born to shine`**  ⭐ 🌠 <br>
-
 <br clear="left"/>
+
+> **We were born to shine**  ⭐ 🌠 <br>
+
+|— x — x —  Contact  — x — x —|
+|---|
+|<details><summary>**Work email**</summary>```pathompong.workspace@gmail.com```</details> **Discord**: ```A Rainbow NPC 🪅 #0376``` <br/> |
 
 > **Dear myself 💌** <br/>
 > If u r feeling sad or having a bad day 😥 this is not the end, this is not ur life supposed to be 😔 we can do it together, you and me 💕 all you need to do is nothing- just relax and forget things that bother you 🐾 let it flow through 🙂
@@ -25,8 +29,6 @@ here the flower for you, not just a flower but a garden of flowers! 🌞 from me
   * [Notion](https://www.notion.so/)
  
 </details>
-
-
 
 <!--
 **p4zaa/p4zaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
