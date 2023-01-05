@@ -1,9 +1,9 @@
-<img align="left" src="https://i.pinimg.com/originals/c3/fe/1a/c3fe1addb7c1df50f7e5ba2d6b53426f.gif" width="8%"/> 
+<img align="left" src="https://i.pinimg.com/originals/c3/fe/1a/c3fe1addb7c1df50f7e5ba2d6b53426f.gif" width="10%"/> 
 
 <br clear="left"/>
 
 > **We were born to shine**  [⭐ 🌠](https://www.youtube.com/watch?v=TdU1vhLK9HM) <br />
-> Thank you for sunshine, thank you for rain, thank you for joy, thank you for pain, it's a beautiful day [🌻](https://www.youtube.com/watch?v=Rdi8xopFykw&list=RDRdi8xopFykw&start_radio=1)
+> Thank you for `sunshine`, thank you for `rain`, thank you for `joy`, thank you for `pain`, it's a `beautiful day` [🌻](https://www.youtube.com/watch?v=Rdi8xopFykw&list=RDRdi8xopFykw&start_radio=1)
 
 |— x — x —  Contact  — x — x —|
 |---|
