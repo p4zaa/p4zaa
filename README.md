@@ -9,16 +9,19 @@
 |---|
 |<details><summary>**Work email**</summary>```pathompong.workspace@gmail.com```</details> **Discord**: ```A Rainbow NPC 🪅 #0376``` <br/> |
 
-> **Dear myself 💌** <br/>
+<details> 
+    <summary>Dear myself 💌</summary>
 > If u r feeling sad or having a bad day 😥 this is not the end, this is not ur life supposed to be 😔 we can do it together, you and me 💕 all you need to do is nothing- just relax and forget things that bother you 🐾 let it flow through 🙂
 here the flower for you, not just a flower but a garden of flowers! 🌞 from me, yourself 😊
-
+</details>
+    
 <table>
 <tr>
     <td>🌻🌻🌻🌼🌼🌷🌷🌷🌻🌻🌻🌼🌼🌷 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.youtube.com/watch?v=PppkNH3bKV4">🌞</a> &nbsp; &nbsp; &nbsp; &nbsp; 🐾 &nbsp;<a href="https://www.youtube.com/watch?v=-rYjfciwWGk">⛲</a> <br> 🌼🌼🌷<a href="https://www.youtube.com/watch?v=DtVfKxRRT_E">🐝</a>🌷🌼🌹🌹🌹🌺🌺🌻🌻🌷 &nbsp; &nbsp; &nbsp; 🐾 &nbsp; &nbsp; &nbsp; 🐾 <br> 🌻🌻🌻🌻🌻🌼🌼🌷<a href="https://www.youtube.com/watch?v=W6-Oou4CZwc&t=1s">🐕</a>🌷🌷🌻🌻🌹 🐾 &nbsp; &nbsp; &nbsp; &nbsp; 🐾 <br> 🌷🌷🌷🌹🌹🌹🌹🌹🌹🌼🌼🌼🌼🌼 &nbsp; &nbsp;<a href="https://www.youtube.com/watch?v=C6tGtH47iQ0">🌈</a><br></td>
 </tr>
 </table>
 
+<!--
 [✚](https://www.youtube.com/watch?v=95Id8XdUegE)
 
 ## My Links ;ppp 😛
@@ -32,6 +35,7 @@ here the flower for you, not just a flower but a garden of flowers! 🌞 from me
   * [Notion](https://www.notion.so/)
  
 </details>
+-->
 
 <!--
 **p4zaa/p4zaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
