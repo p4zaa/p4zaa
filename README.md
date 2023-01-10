@@ -6,12 +6,13 @@
 > Thank you for `sunshine`, thank you for `rain`, thank you for `joy`, thank you for `pain`, it's a `beautiful day` [🌻](https://www.youtube.com/watch?v=Rdi8xopFykw&list=RDRdi8xopFykw&start_radio=1) <br/>
 
 #### **Pathompong Muangthong**
-- 🎓 Graduated in Bachelor of Science Degree field of study in Computer Science at Chulalongkorn University
+- 🎓 Graduated with a BSc in Computer Science from Chulalongkorn University.
 - 🎖 Finalist at Intel International Science and Engineering Fair 2017
+- 🧑‍💻 Currently looking for a job
 
 |— x — x —  Contact  — x — x —|
 |---|
-|<details><summary>**Work email**</summary>```pathompong.workspace@gmail.com```</details> **Discord**: ```A Rainbow NPC 🪅 #0376``` <br/> |
+|**Discord**: ```A Rainbow NPC 🪅 #0376``` <br/> |
 
 <details> 
     <summary>Dear myself 💌</summary>
