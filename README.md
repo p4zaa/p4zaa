@@ -9,7 +9,7 @@
 
 <p align="left">
 
-<a href="https://www.notion.so/dustyblu3/My-Portfolio-c76c79ee12514ed7a7748975d1ab7272">
+<a href="https://dustyblu3.notion.site/My-Portfolio-c76c79ee12514ed7a7748975d1ab7272">
     <img src="https://img.shields.io/badge/Website-Portfolio-red?style=flat-square">
 </a>  
 <a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0087cce1-aed2-4445-a91c-d463ca32cf1b/Pathompong_Muangthong_-_Data_Scientist.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230118T113652Z&X-Amz-Expires=86400&X-Amz-Signature=12d21dd3cdc68d8a52028bccd8fa0342e4ef73d845ec9009c1f8b49a76ca0232&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Pathompong%2520Muangthong%2520-%2520Data%2520Scientist.pdf%22&x-id=GetObject">
