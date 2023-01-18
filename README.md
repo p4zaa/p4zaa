@@ -5,7 +5,9 @@
 > **We were born to shine**  [⭐ 🌠](https://www.youtube.com/watch?v=TdU1vhLK9HM) <br />
 > Thank you for `sunshine`, thank you for `rain`, thank you for `joy`, thank you for `pain`, it's a `beautiful day` [🌻](https://www.youtube.com/watch?v=Rdi8xopFykw&list=RDRdi8xopFykw&start_radio=1) <br/>
 
-<p align="center">
+<br/>
+
+<p align="left">
 
 <a href="https://www.notion.so/dustyblu3/My-Portfolio-c76c79ee12514ed7a7748975d1ab7272">
     <img src="https://img.shields.io/badge/Website-Portfolio-red?style=flat-square">
