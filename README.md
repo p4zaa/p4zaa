@@ -33,7 +33,7 @@
 
 <details> 
     <summary>Dear myself 💌</summary>
-> If u r feeling sad or having a bad day 😥 this is not the end, this is not ur life supposed to be 😔 we can do it together, you and me 💕 all you need to do is nothing- just relax and forget things that bother you 🐾 let it flow through 🙂
+:'> When you're feeling down or having a tough day, remember that this is just a moment, not the end. You and I can get through it together. Take a deep breath and let go of the worries that weigh you down. Imagine a garden of flowers, given to you with love, from yourself to yourself. 🌞 <br/>
 here the flower for you, not just a flower but a garden of flowers! 🌞 from me, yourself 😊
 </details>
     
