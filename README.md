@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Website-Portfolio-red?style=square">
 </a>  
 <a href="https://docs.google.com/document/d/1gix3a8Wf0JxP8RF_xQbuj1wKmJW0cLL5U9Da-JrFz4E/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/-Resume-blue?style=square&logo=google&logoColor=white">
+    <img src="https://img.shields.io/badge/-Resume-2A9DF4?style=square&logo=google&logoColor=white">
 </a>  
 <a href="https://www.linkedin.com/in/pathompong-muangthong/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=square&logo=linkedin">
