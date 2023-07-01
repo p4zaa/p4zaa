@@ -25,7 +25,6 @@
 #### **Pathompong Muangthong**
 - 🎓 Graduated with a BSc in Computer Science from Chulalongkorn University.
 - 🎖 Finalist at Intel International Science and Engineering Fair 2017
-- 🧑‍💻 Currently looking for a job
 
 |— x — x —  Contact  — x — x —|
 |---|
