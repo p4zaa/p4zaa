@@ -29,7 +29,7 @@
 
 |— x — x —  Contact  — x — x —|
 |---|
-|**Discord**: ```A Rainbow NPC 🪅 #0376``` <br/> |
+|**Discord**: ```p4zaa``` <br/> |
 
 <details> 
     <summary>Dear myself 💌</summary>
