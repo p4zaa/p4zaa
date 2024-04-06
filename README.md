@@ -5,6 +5,7 @@
 > **We were born to shine**  [⭐ 🌠](https://www.youtube.com/watch?v=TdU1vhLK9HM) <br />
 > Thank you for `sunshine`, thank you for `rain`, thank you for `joy`, thank you for `pain`, it's a `beautiful day` [🌻](https://www.youtube.com/watch?v=Rdi8xopFykw&list=RDRdi8xopFykw&start_radio=1) <br/>
 
+<!--
 <br/>
 
 <p align="left">
@@ -21,6 +22,7 @@
 <a href="mailto:pathompong.workspace@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=square&logo=gmail&logoColor=white">
 </a>
+-->
 
 #### **Pathompong Muangthong**
 - 🎓 Graduated with a BSc in Computer Science from Chulalongkorn University.
